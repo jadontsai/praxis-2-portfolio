@@ -37,7 +37,7 @@ body {
 
 .subtitle {
   font-size: 1.2rem;
-  color: #cccccc;
+  color: #fff;
   margin-bottom: 20px;
 }
 
@@ -83,5 +83,5 @@ footer {
   text-align: center;
   padding: 20px;
   background-color: #27285C;
-  color: #27285C;
+  color: #fff;
 }
