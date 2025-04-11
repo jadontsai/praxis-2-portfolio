@@ -129,6 +129,9 @@ footer {
 .main-nav a:hover {
   color: #ffcb05;
 }
+.dropdown {
+  position: relative;
+}
 
 .dropdown-menu {
   display: none;
