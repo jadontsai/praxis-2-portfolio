@@ -191,7 +191,7 @@ footer {
   margin: 20px auto;
   max-width: 1200px;
   background-color: #fff; 
-
+}
 .introduction h2 {
   color: #27285C;
   margin-bottom: 15px;
@@ -213,7 +213,7 @@ footer {
   margin: 0 auto;
   max-width: 70%;
   height: auto; 
-
+}
 .centered-figure figcaption {
   text-align: center; 
   font-style: italic;
