@@ -185,3 +185,20 @@ footer {
   padding-left: 20px;
   margin-bottom: 10px;
 }
+.introduction {
+  text-align: center; 
+  padding: 40px 20px;
+  margin: 20px auto;
+  max-width: 1200px;
+  background-color: #fff; 
+
+.introduction h2 {
+  color: #27285C;
+  margin-bottom: 15px;
+}
+
+.introduction p {
+  color: #333;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
