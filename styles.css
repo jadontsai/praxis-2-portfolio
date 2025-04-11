@@ -156,8 +156,8 @@ footer {
   display: block;
 }
 .info-container {
-  background-color: #ffffff;
-  border: 1px solid #ddd;
+  background-color: #e8f0fe;
+  border: 3px solid #a6c8f0;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   padding: 20px;
