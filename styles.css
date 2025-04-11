@@ -129,9 +129,7 @@ footer {
 .main-nav a:hover {
   color: #ffcb05;
 }
-.dropdown {
-  position: relative;
-}
+
 
 .dropdown-menu {
   display: none;
@@ -142,10 +140,6 @@ footer {
   margin-top: 10px;
   border-radius: 4px;
   z-index: 999;
-}
-
-.dropdown-menu li {
-  display: block;
 }
 
 .dropdown-menu li a {
