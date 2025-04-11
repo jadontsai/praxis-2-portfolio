@@ -202,3 +202,20 @@ footer {
   font-size: 1.1rem;
   line-height: 1.6;
 }
+.centered-figure {
+  text-align: center;
+  margin: 20px auto;
+  max-width: 800px;   
+}
+
+.centered-figure img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto; 
+
+.centered-figure figcaption {
+  margin-top: 0.5rem;
+  font-style: italic;
+  color: #555;
+}
