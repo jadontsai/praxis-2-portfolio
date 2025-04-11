@@ -161,3 +161,37 @@ footer {
 .dropdown:hover .dropdown-menu {
   display: block;
 }
+.info-container {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.info-container h2 {
+  color: #27285C;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #ffcb05;
+  padding-bottom: 5px;
+}
+
+.info-container h3 {
+  color: #27285C;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.info-container p {
+  color: #333;
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+
+.info-container ul {
+  list-style: disc;
+  padding-left: 20px;
+  margin-bottom: 10px;
+}
