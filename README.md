@@ -1,2 +1,2 @@
 # praxis-2-portfolio
-#testttt
+Source code for praxis 2 (engineering design course at the University of Toronto) final project: an engineering portfolio.
